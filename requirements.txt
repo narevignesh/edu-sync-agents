@@ -1,0 +1,7 @@
+langchain>=0.2.14
+langgraph>=0.2.21
+langsmith>=0.1.95
+langchain-groq>=0.1.5
+requests>=2.32.3
+python-dotenv>=1.0.1
+streamlit>=1.37.0
